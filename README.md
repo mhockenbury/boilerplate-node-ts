@@ -1,8 +1,10 @@
 # Node/Typescript Starter Boilerplate
 
-Basic Project Setup:
-- typescript / ts-node / jest
+
+
+Basic Project Setup consists of:
+- typescript / ts-node / jest / ts-jest
 - src/dist/test project structure
 - Boilerplate .gitignore
-- jest config
+- basic jest typescript config
 - run/build/test npm scripts
